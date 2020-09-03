@@ -1,1 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2020-08-31T07:29:51.639Z" agent="5.0 (X11)" version="13.6.5" etag="m2X53ziKJ-1d7IUcLYF4" type="github"><diagram id="nCHe00BiL25Sm07RlqxD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-03T07:11:24.850Z" agent="5.0 (X11)" etag="KwkYUuicqrjjZZ16Pie-" version="13.6.6" type="github">
+  <diagram id="nCHe00BiL25Sm07RlqxD" name="Page-1">
+    <mxGraphModel dx="868" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T83baKWK3DNf-sIOL_fl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T83baKWK3DNf-sIOL_fl-3" target="T83baKWK3DNf-sIOL_fl-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="" id="T83baKWK3DNf-sIOL_fl-3">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;" vertex="1" parent="1">
+            <mxGeometry x="170" y="270" width="100" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="T83baKWK3DNf-sIOL_fl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T83baKWK3DNf-sIOL_fl-4" target="T83baKWK3DNf-sIOL_fl-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;div&gt;Mulai&lt;/div&gt;" id="T83baKWK3DNf-sIOL_fl-4">
+          <mxCell style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+            <mxGeometry x="170" y="110" width="100" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="T83baKWK3DNf-sIOL_fl-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="420" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T83baKWK3DNf-sIOL_fl-6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="590" y="180" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="T83baKWK3DNf-sIOL_fl-9" value="Produksi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="185" y="290" width="70" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

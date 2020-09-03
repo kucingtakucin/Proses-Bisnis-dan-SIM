@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-03T07:11:24.850Z" agent="5.0 (X11)" etag="KwkYUuicqrjjZZ16Pie-" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-03T10:00:34.917Z" agent="5.0 (X11)" etag="nvXwGfI36hECvziMEFJp" version="13.6.6" type="github">
   <diagram id="nCHe00BiL25Sm07RlqxD" name="Page-1">
     <mxGraphModel dx="868" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -20,14 +20,47 @@
             <mxGeometry x="170" y="110" width="100" height="60" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="T83baKWK3DNf-sIOL_fl-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="420" width="100" height="60" as="geometry" />
+        <mxCell id="T83baKWK3DNf-sIOL_fl-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="T83baKWK3DNf-sIOL_fl-5" target="T83baKWK3DNf-sIOL_fl-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T83baKWK3DNf-sIOL_fl-6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="590" y="180" width="100" height="100" as="geometry" />
+        <mxCell id="T83baKWK3DNf-sIOL_fl-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="380" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T83baKWK3DNf-sIOL_fl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="T83baKWK3DNf-sIOL_fl-6" target="T83baKWK3DNf-sIOL_fl-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T83baKWK3DNf-sIOL_fl-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="T83baKWK3DNf-sIOL_fl-6" target="T83baKWK3DNf-sIOL_fl-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T83baKWK3DNf-sIOL_fl-6" value="&lt;div&gt;Stok tersedia&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="250" y="355" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="T83baKWK3DNf-sIOL_fl-9" value="Produksi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="185" y="290" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T83baKWK3DNf-sIOL_fl-15" value="Penjualan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="70" y="400" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T83baKWK3DNf-sIOL_fl-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" edge="1" parent="1" source="T83baKWK3DNf-sIOL_fl-17" target="T83baKWK3DNf-sIOL_fl-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T83baKWK3DNf-sIOL_fl-17" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="460" y="380" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T83baKWK3DNf-sIOL_fl-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" edge="1" parent="1" source="T83baKWK3DNf-sIOL_fl-18" target="T83baKWK3DNf-sIOL_fl-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T83baKWK3DNf-sIOL_fl-18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="460" y="230" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T83baKWK3DNf-sIOL_fl-19" value="&lt;div&gt;Selesai&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="650" y="230" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T83baKWK3DNf-sIOL_fl-21" value="&lt;div&gt;Terjual&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="480" y="400" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T83baKWK3DNf-sIOL_fl-25" value="Pembayaran" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="465" y="240" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

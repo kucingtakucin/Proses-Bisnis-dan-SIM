@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-15T05:19:36.319Z" agent="5.0 (X11)" etag="5S22O8_akZa0C-IisKUG" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-15T05:29:11.899Z" agent="5.0 (X11)" etag="Cg_Xd9D_JKEyKj5RRao8" version="13.7.1" type="github">
   <diagram id="rntQ7MFs9RyXZs8C_t1R" name="Page-1">
     <mxGraphModel dx="868" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -72,7 +72,7 @@
         <mxCell id="z7o3CKTYqqBQ7aBaNFPh-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="z7o3CKTYqqBQ7aBaNFPh-5" source="z7o3CKTYqqBQ7aBaNFPh-19" target="z7o3CKTYqqBQ7aBaNFPh-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z7o3CKTYqqBQ7aBaNFPh-19" value="Membuat file" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="z7o3CKTYqqBQ7aBaNFPh-5">
+        <mxCell id="z7o3CKTYqqBQ7aBaNFPh-19" value="Membuat berkas" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="z7o3CKTYqqBQ7aBaNFPh-5">
           <mxGeometry x="280" y="25" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z7o3CKTYqqBQ7aBaNFPh-46" value="" style="startArrow=oval;startFill=0;startSize=7;endArrow=block;endFill=0;endSize=10;dashed=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="z7o3CKTYqqBQ7aBaNFPh-5" source="z7o3CKTYqqBQ7aBaNFPh-25" target="z7o3CKTYqqBQ7aBaNFPh-26">

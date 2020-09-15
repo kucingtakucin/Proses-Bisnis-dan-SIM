@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-15T12:23:10.439Z" agent="5.0 (X11)" etag="gPdH5QXY31DAWShylCsk" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-15T13:52:18.735Z" agent="5.0 (X11)" etag="3xNcuMBUIl-V0eCDid5h" version="13.7.1" type="github">
   <diagram id="rntQ7MFs9RyXZs8C_t1R" name="Page-1">
     <mxGraphModel dx="868" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
         <mxCell id="z7o3CKTYqqBQ7aBaNFPh-37" value="End" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=end;symbol=general;fillColor=#f8cecc;strokeColor=#b85450;" parent="z7o3CKTYqqBQ7aBaNFPh-1" vertex="1">
           <mxGeometry x="690" y="35" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="z7o3CKTYqqBQ7aBaNFPh-3" value="E" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" parent="1" vertex="1">
+        <mxCell id="z7o3CKTYqqBQ7aBaNFPh-3" value="Agen Travel" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="280" width="760" height="400" as="geometry" />
         </mxCell>
         <mxCell id="z7o3CKTYqqBQ7aBaNFPh-5" value="Bagian Penjualan" style="swimlane;html=1;startSize=20;horizontal=0;" parent="z7o3CKTYqqBQ7aBaNFPh-3" vertex="1">
@@ -72,7 +72,7 @@
         <mxCell id="z7o3CKTYqqBQ7aBaNFPh-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="z7o3CKTYqqBQ7aBaNFPh-5" source="z7o3CKTYqqBQ7aBaNFPh-19" target="z7o3CKTYqqBQ7aBaNFPh-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z7o3CKTYqqBQ7aBaNFPh-19" value="Mengisi formulir" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="z7o3CKTYqqBQ7aBaNFPh-5" vertex="1">
+        <mxCell id="z7o3CKTYqqBQ7aBaNFPh-19" value="Membuat berkas" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="z7o3CKTYqqBQ7aBaNFPh-5" vertex="1">
           <mxGeometry x="280" y="25" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z7o3CKTYqqBQ7aBaNFPh-46" value="" style="startArrow=oval;startFill=0;startSize=7;endArrow=block;endFill=0;endSize=10;dashed=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="z7o3CKTYqqBQ7aBaNFPh-5" source="z7o3CKTYqqBQ7aBaNFPh-25" target="z7o3CKTYqqBQ7aBaNFPh-26" edge="1">

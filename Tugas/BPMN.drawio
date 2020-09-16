@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-09-15T13:52:18.735Z" agent="5.0 (X11)" etag="3xNcuMBUIl-V0eCDid5h" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-16T03:40:16.023Z" agent="5.0 (X11)" etag="1WMet_bNz8a2diqP9DwV" version="13.7.1" type="github">
   <diagram id="rntQ7MFs9RyXZs8C_t1R" name="Page-1">
     <mxGraphModel dx="868" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="z7o3CKTYqqBQ7aBaNFPh-1" value="Client" style="swimlane;startSize=20;horizontal=0;" parent="1" vertex="1">
+        <mxCell id="z7o3CKTYqqBQ7aBaNFPh-1" value="Customer" style="swimlane;startSize=20;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="80" width="760" height="120" as="geometry" />
         </mxCell>
         <mxCell id="z7o3CKTYqqBQ7aBaNFPh-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="z7o3CKTYqqBQ7aBaNFPh-1" source="z7o3CKTYqqBQ7aBaNFPh-7" target="z7o3CKTYqqBQ7aBaNFPh-10" edge="1">

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-22T03:27:27.632Z" agent="5.0 (X11)" etag="jSNHjmXi2UL0tKuK9WFz" version="13.7.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-22T04:30:58.577Z" agent="5.0 (X11)" etag="xV17ryZIg8T4YroIjgrF" version="13.7.3" type="github" pages="2">
   <diagram id="SH268OY3LRd38PDW5ipz" name="Page-1">
     <mxGraphModel dx="868" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -21,6 +21,9 @@
         </mxCell>
         <mxCell id="ba0OnkqTSxmGQ9JuHHQ3-46" value="End" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=end;symbol=general;" parent="ba0OnkqTSxmGQ9JuHHQ3-3" vertex="1">
           <mxGeometry x="590" y="55" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SmWvJhQzIbIy0E5TuexP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ba0OnkqTSxmGQ9JuHHQ3-3" source="ba0OnkqTSxmGQ9JuHHQ3-15" target="ba0OnkqTSxmGQ9JuHHQ3-46">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ba0OnkqTSxmGQ9JuHHQ3-15" value="Melihat hasil kelulusan calon mahasiswa baru" style="html=1;whiteSpace=wrap;rounded=1;dropTarget=0;" parent="ba0OnkqTSxmGQ9JuHHQ3-3" vertex="1">
           <mxGeometry x="450" y="40" width="120" height="80" as="geometry" />
@@ -115,7 +118,10 @@
           <mxGeometry x="20" y="480" width="660" height="160" as="geometry" />
         </mxCell>
         <mxCell id="ba0OnkqTSxmGQ9JuHHQ3-45" value="End" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=end;symbol=general;" parent="ba0OnkqTSxmGQ9JuHHQ3-6" vertex="1">
-          <mxGeometry x="600" y="60" width="50" height="50" as="geometry" />
+          <mxGeometry x="600" y="55" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SmWvJhQzIbIy0E5TuexP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ba0OnkqTSxmGQ9JuHHQ3-6" source="ba0OnkqTSxmGQ9JuHHQ3-31" target="ba0OnkqTSxmGQ9JuHHQ3-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ba0OnkqTSxmGQ9JuHHQ3-31" value="Melihat hasil pengumuman mahasiswa baru" style="html=1;whiteSpace=wrap;rounded=1;dropTarget=0;" parent="ba0OnkqTSxmGQ9JuHHQ3-6" vertex="1">
           <mxGeometry x="450" y="40" width="120" height="80" as="geometry" />

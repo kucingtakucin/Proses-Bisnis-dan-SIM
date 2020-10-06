@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T07:56:41.738Z" agent="5.0 (X11)" etag="DUafT9--w_WTdyRE3S6Q" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-06T08:20:46.863Z" agent="5.0 (X11)" etag="02qFFM7InwoxFr607_dl" version="13.7.3" type="github">
   <diagram id="F-RFFmZH9w4QIyTJf53x" name="Page-1">
     <mxGraphModel dx="723" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -136,41 +136,175 @@
         <mxCell id="js7K2ZC_KKVjjp7KWJBL-60" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=end;symbol=message;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="380" width="50" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="js7K2ZC_KKVjjp7KWJBL-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="js7K2ZC_KKVjjp7KWJBL-70" target="js7K2ZC_KKVjjp7KWJBL-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="675" />
+              <mxPoint x="150" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="js7K2ZC_KKVjjp7KWJBL-70" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=catching;symbol=message;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="675" width="50" height="50" as="geometry" />
+          <mxGeometry x="90" y="650" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="js7K2ZC_KKVjjp7KWJBL-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="js7K2ZC_KKVjjp7KWJBL-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="107" y="751" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="640" />
+              <mxPoint x="270" y="680" />
+              <mxPoint x="160" y="680" />
+              <mxPoint x="160" y="710" />
+              <mxPoint x="90" y="710" />
+              <mxPoint x="90" y="751" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="js7K2ZC_KKVjjp7KWJBL-71" value="Scan QR code" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="620" width="100" height="60" as="geometry" />
+          <mxGeometry x="160" y="610" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="js7K2ZC_KKVjjp7KWJBL-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="js7K2ZC_KKVjjp7KWJBL-72" target="js7K2ZC_KKVjjp7KWJBL-108">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="763" as="sourcePoint" />
+            <mxPoint x="290" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="760" />
+              <mxPoint x="220" y="760" />
+              <mxPoint x="220" y="690" />
+              <mxPoint x="280" y="690" />
+              <mxPoint x="280" y="640" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="js7K2ZC_KKVjjp7KWJBL-72" value="Verifikasi bahan mentah" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="710" width="100" height="60" as="geometry" />
+          <mxGeometry x="110" y="720" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="js7K2ZC_KKVjjp7KWJBL-73" value="Material OK?" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;background=gateway;outlineConnect=0;outline=none;symbol=parallelGw;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="630" width="50" height="50" as="geometry" />
+        <mxCell id="js7K2ZC_KKVjjp7KWJBL-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="js7K2ZC_KKVjjp7KWJBL-108" target="js7K2ZC_KKVjjp7KWJBL-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="640" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="350" y="640" />
+              <mxPoint x="350" y="655" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="js7K2ZC_KKVjjp7KWJBL-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="js7K2ZC_KKVjjp7KWJBL-108" target="js7K2ZC_KKVjjp7KWJBL-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="315" y="665" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="315" y="690" />
+              <mxPoint x="300" y="690" />
+              <mxPoint x="300" y="750" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="js7K2ZC_KKVjjp7KWJBL-74" value="Klaim garansi dikeluarkan" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=end;symbol=general;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="725" width="50" height="50" as="geometry" />
+          <mxGeometry x="230" y="725" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="js7K2ZC_KKVjjp7KWJBL-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="js7K2ZC_KKVjjp7KWJBL-75" target="js7K2ZC_KKVjjp7KWJBL-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="js7K2ZC_KKVjjp7KWJBL-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="js7K2ZC_KKVjjp7KWJBL-75" target="js7K2ZC_KKVjjp7KWJBL-76">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="js7K2ZC_KKVjjp7KWJBL-75" value="Menyimpan produk farmasi" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="375" y="625" width="100" height="60" as="geometry" />
+          <mxGeometry x="360" y="625" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="js7K2ZC_KKVjjp7KWJBL-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="js7K2ZC_KKVjjp7KWJBL-76" target="js7K2ZC_KKVjjp7KWJBL-111">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600.0344827586207" y="655.0344827586207" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="js7K2ZC_KKVjjp7KWJBL-76" value="Mengelola inventaris" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="625" width="100" height="60" as="geometry" />
+          <mxGeometry x="480" y="625" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="js7K2ZC_KKVjjp7KWJBL-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="js7K2ZC_KKVjjp7KWJBL-77" target="js7K2ZC_KKVjjp7KWJBL-97">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="740" />
+              <mxPoint x="670" y="750" />
+              <mxPoint x="680" y="750" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="js7K2ZC_KKVjjp7KWJBL-77" value="Membuat QR code" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="710" width="100" height="60" as="geometry" />
+          <mxGeometry x="560" y="710" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="js7K2ZC_KKVjjp7KWJBL-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="js7K2ZC_KKVjjp7KWJBL-78" target="js7K2ZC_KKVjjp7KWJBL-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="640" />
+              <mxPoint x="790" y="680" />
+              <mxPoint x="765" y="680" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="js7K2ZC_KKVjjp7KWJBL-78" value="Menyimpan catatan informasi" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="620" width="100" height="60" as="geometry" />
+          <mxGeometry x="680" y="610" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="js7K2ZC_KKVjjp7KWJBL-79" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=end;symbol=message;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="720" width="50" height="50" as="geometry" />
+          <mxGeometry x="740" y="730" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="js7K2ZC_KKVjjp7KWJBL-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="js7K2ZC_KKVjjp7KWJBL-80" target="js7K2ZC_KKVjjp7KWJBL-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="765" />
+              <mxPoint x="550" y="740" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="js7K2ZC_KKVjjp7KWJBL-80" value="Mengemasi produk " style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="710" width="100" height="60" as="geometry" />
+          <mxGeometry x="440" y="735" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="js7K2ZC_KKVjjp7KWJBL-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="js7K2ZC_KKVjjp7KWJBL-81" target="js7K2ZC_KKVjjp7KWJBL-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="740" />
+              <mxPoint x="430" y="765" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="js7K2ZC_KKVjjp7KWJBL-81" value="Membuat senyawa obat" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="710" width="100" height="60" as="geometry" />
+          <mxGeometry x="320" y="710" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="js7K2ZC_KKVjjp7KWJBL-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="js7K2ZC_KKVjjp7KWJBL-111" target="js7K2ZC_KKVjjp7KWJBL-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="625" y="680" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="625" y="700" />
+              <mxPoint x="310" y="700" />
+              <mxPoint x="310" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="js7K2ZC_KKVjjp7KWJBL-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="js7K2ZC_KKVjjp7KWJBL-111" target="js7K2ZC_KKVjjp7KWJBL-97">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="655" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="660" y="655" />
+              <mxPoint x="660" y="690" />
+              <mxPoint x="705" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="js7K2ZC_KKVjjp7KWJBL-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="js7K2ZC_KKVjjp7KWJBL-97" target="js7K2ZC_KKVjjp7KWJBL-78">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="680" />
+              <mxPoint x="670" y="680" />
+              <mxPoint x="670" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="js7K2ZC_KKVjjp7KWJBL-97" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;background=gateway;outlineConnect=0;outline=none;symbol=exclusiveGw;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="700" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="js7K2ZC_KKVjjp7KWJBL-108" value="Material OK?" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;background=gateway;outlineConnect=0;outline=none;symbol=exclusiveGw;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="615" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="js7K2ZC_KKVjjp7KWJBL-111" value="Permintaan senyawa" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;background=gateway;outlineConnect=0;outline=none;symbol=exclusiveGw;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="630" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

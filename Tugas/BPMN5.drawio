@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-13T03:25:29.998Z" agent="5.0 (X11)" etag="O2EBihjh9zO7EHeJTKpB" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-13T03:27:25.827Z" agent="5.0 (X11)" etag="ZBMAYkhTPbRrLdfPspcX" version="13.7.7" type="github">
   <diagram id="fxBCQt3nLK3CoSCNscTl" name="Page-1">
     <mxGraphModel dx="828" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -129,7 +129,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XgpAlZW-CIPTjyH1w8Ks-33" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=catching;symbol=message;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="XgpAlZW-CIPTjyH1w8Ks-4">
+        <mxCell id="XgpAlZW-CIPTjyH1w8Ks-33" value="Mana seblak-nya?" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=catching;symbol=message;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="XgpAlZW-CIPTjyH1w8Ks-4">
           <mxGeometry x="170" y="140" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XgpAlZW-CIPTjyH1w8Ks-54" value="" style="shape=message;whiteSpace=wrap;html=1;outlineConnect=0;fillColor=#000000;strokeColor=#ffffff;strokeWidth=2;" vertex="1" parent="XgpAlZW-CIPTjyH1w8Ks-4">
@@ -204,8 +204,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XgpAlZW-CIPTjyH1w8Ks-40" value="" style="shape=message;whiteSpace=wrap;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="280" width="20" height="20" as="geometry" />
+        <mxCell id="XgpAlZW-CIPTjyH1w8Ks-40" value="" style="shape=message;whiteSpace=wrap;html=1;outlineConnect=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="190" y="280" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XgpAlZW-CIPTjyH1w8Ks-41" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;backgroundOutline=0;rounded=1;sketch=0;" edge="1" parent="1" source="XgpAlZW-CIPTjyH1w8Ks-9" target="XgpAlZW-CIPTjyH1w8Ks-40">
           <mxGeometry relative="1" as="geometry">

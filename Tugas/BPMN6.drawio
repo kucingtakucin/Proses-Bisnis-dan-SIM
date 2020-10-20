@@ -1,1 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2020-10-20T04:14:32.301Z" agent="5.0 (X11)" version="13.7.9" etag="ur3ei0wkpLVWwH_0RKkB" type="github"><diagram id="ZEzPtEvGSoAQZh9LTlzY">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-20T06:21:06.532Z" agent="5.0 (X11)" etag="PoRGF37eZWFeglSH4NCy" version="13.7.9" type="github">
+  <diagram id="ZEzPtEvGSoAQZh9LTlzY" name="Page-1">
+    <mxGraphModel dx="1250" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nvO6eno5gmA60IrkmdwI-1" value="&lt;font style=&quot;font-size: 30px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;PROSES BISNIS APLIKASI KREDIT&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="50" width="610" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nvO6eno5gmA60IrkmdwI-2" value="Pinjaman" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="760" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="nvO6eno5gmA60IrkmdwI-3" value="Cabang" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="nvO6eno5gmA60IrkmdwI-2">
+          <mxGeometry x="20" width="740" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="nvO6eno5gmA60IrkmdwI-14" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=end;symbol=general;" vertex="1" parent="nvO6eno5gmA60IrkmdwI-3">
+          <mxGeometry x="520" y="10" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nvO6eno5gmA60IrkmdwI-9" value="Sub-Process" style="html=1;whiteSpace=wrap;rounded=1;dropTarget=0;" vertex="1" parent="nvO6eno5gmA60IrkmdwI-3">
+          <mxGeometry x="240" y="30" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nvO6eno5gmA60IrkmdwI-10" value="" style="html=1;shape=plus;outlineConnect=0;" vertex="1" parent="nvO6eno5gmA60IrkmdwI-9">
+          <mxGeometry x="0.5" y="1" width="14" height="14" relative="1" as="geometry">
+            <mxPoint x="-7" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nvO6eno5gmA60IrkmdwI-8" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=standard;symbol=general;" vertex="1" parent="nvO6eno5gmA60IrkmdwI-3">
+          <mxGeometry x="50" y="30" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nvO6eno5gmA60IrkmdwI-11" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;background=gateway;outlineConnect=0;outline=none;symbol=parallelGw;" vertex="1" parent="nvO6eno5gmA60IrkmdwI-3">
+          <mxGeometry x="365" y="100" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nvO6eno5gmA60IrkmdwI-15" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;background=gateway;outlineConnect=0;outline=none;symbol=parallelGw;" vertex="1" parent="nvO6eno5gmA60IrkmdwI-3">
+          <mxGeometry x="520" y="100" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nvO6eno5gmA60IrkmdwI-7" value="Task" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="nvO6eno5gmA60IrkmdwI-3">
+          <mxGeometry x="110" y="120" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nvO6eno5gmA60IrkmdwI-4" value="Perusahaan Kredit" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="nvO6eno5gmA60IrkmdwI-2">
+          <mxGeometry x="20" y="320" width="740" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="nvO6eno5gmA60IrkmdwI-5" value="Kantor Utama" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="nvO6eno5gmA60IrkmdwI-2">
+          <mxGeometry x="20" y="520" width="740" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

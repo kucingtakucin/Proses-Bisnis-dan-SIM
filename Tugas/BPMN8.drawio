@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2020-11-22T11:46:41.942Z" agent="5.0 (X11)" version="13.8.2" etag="bGSihI5VKrU192ywAeHK" type="github"><diagram id="jBxPHDt1m7Ot2ghdBZCt">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-22T11:57:59.610Z" agent="5.0 (X11)" etag="bXFiiGm4L7kTWs-NL0On" version="13.8.2" type="github">
+  <diagram id="jBxPHDt1m7Ot2ghdBZCt" name="Page-1">
+    <mxGraphModel dx="868" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oRxEQhbsehwdXJkTdqn5-1" value="Bantuan Pasien" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="760" height="960" as="geometry" />
+        </mxCell>
+        <mxCell id="oRxEQhbsehwdXJkTdqn5-2" value="Call Center" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="oRxEQhbsehwdXJkTdqn5-1">
+          <mxGeometry x="20" width="740" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="oRxEQhbsehwdXJkTdqn5-3" value="Perawat" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="oRxEQhbsehwdXJkTdqn5-1">
+          <mxGeometry x="20" y="160" width="740" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="oRxEQhbsehwdXJkTdqn5-5" value="Ambulans&#xa;Perlengkapan Penuh" style="swimlane;startSize=30;horizontal=0;" vertex="1" parent="oRxEQhbsehwdXJkTdqn5-1">
+          <mxGeometry x="20" y="320" width="740" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="oRxEQhbsehwdXJkTdqn5-4" value="Resepsionis" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="oRxEQhbsehwdXJkTdqn5-1">
+          <mxGeometry x="20" y="480" width="740" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="oRxEQhbsehwdXJkTdqn5-6" value="Kendaraan&#xa;Perhatian Cepat" style="swimlane;startSize=30;horizontal=0;" vertex="1" parent="oRxEQhbsehwdXJkTdqn5-1">
+          <mxGeometry x="20" y="640" width="740" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="oRxEQhbsehwdXJkTdqn5-8" value="Ambulans Biasa" style="swimlane;startSize=20;horizontal=0;" vertex="1" parent="oRxEQhbsehwdXJkTdqn5-1">
+          <mxGeometry x="20" y="800" width="740" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
